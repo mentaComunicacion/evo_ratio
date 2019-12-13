@@ -9,5 +9,6 @@ Análisis de interacción de usuarios de twitter con las publicaciones de Evo Mo
 Relaciones entre cuentas de senadores (2019-2021)
 
 -> [`igrpah`](https://mentacomunicacion.github.io/interactivos/sen_igraph.html)
+
 -> [`ratio`](https://mentacomunicacion.github.io/interactivos/sen_ternario.html)
 
