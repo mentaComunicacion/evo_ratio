@@ -10,5 +10,7 @@ Relaciones entre cuentas de senadores (2019-2021)
 
 -> [`igrpah`](https://mentacomunicacion.github.io/interactivos/sen_igraph.html)
 
+Cómo reacciona el público con la información?
+
 -> [`ratio`](https://mentacomunicacion.github.io/interactivos/sen_ternario.html)
 
