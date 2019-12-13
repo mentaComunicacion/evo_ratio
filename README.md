@@ -3,7 +3,7 @@
 ### BadRatio  - Evo Morales
 Análisis de interacción de usuarios de twitter con las publicaciones de Evo Morales. 
 
--> [`plotly`](https://mentacomunicacion.github.io/evo_ratio/)
+-> [`plotly`](https://mentacomunicacion.github.io/interactivos/index.html)
 
 ### Senado2.0 
 Relaciones entre cuentas de senadores (2019-2021)
