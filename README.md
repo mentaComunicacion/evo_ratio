@@ -1,4 +1,6 @@
-# BadRatio  - Evo Morales
-Análisis de interacción de usuarios de twitter con las publicaciones de Evo Morales
+# Aplicaciones interactivas
 
-[`plotly`](https://mentacomunicacion.github.io/evo_ratio/)
+### BadRatio  - Evo Morales
+Análisis de interacción de usuarios de twitter con las publicaciones de Evo Morales. 
+
+-> [`plotly`](https://mentacomunicacion.github.io/evo_ratio/)
