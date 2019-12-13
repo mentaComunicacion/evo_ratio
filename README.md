@@ -4,3 +4,9 @@
 Análisis de interacción de usuarios de twitter con las publicaciones de Evo Morales. 
 
 -> [`plotly`](https://mentacomunicacion.github.io/evo_ratio/)
+
+### Senado2.0 
+Relaciones entre cuentas de senadores (2019-2021)
+
+-> [`igrpah`](https://mentacomunicacion.github.io/interactivos/sen_igraph.html)
+
