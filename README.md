@@ -23,7 +23,7 @@ Relaciones entre cuentas de diputados (2019-2021)
 
 -> [`igrpah`](https://mentacomunicacion.github.io/interactivos/dip_igraph.html)
 
-Cómo reacciona el público de senadores con la información?
+Cómo reacciona el público de diputados con la información?
 
 -> [`ratio`](https://mentacomunicacion.github.io/interactivos/dip_ternario.html)
 
